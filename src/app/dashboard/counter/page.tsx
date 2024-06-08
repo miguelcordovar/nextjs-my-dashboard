@@ -1,4 +1,4 @@
-import { ShoppingCart } from "@/app/shopping-cart";
+import { ShoppingCart } from "@/shopping-cart";
 import { Metadata } from "next";
 
 
